@@ -1,6 +1,12 @@
 {
   "name": "vanilla-spa-calendar",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
 }
