@@ -7,6 +7,6 @@
     "moment": "^2.29.1"
   },
   "devDependencies": {
-    "parcel": "^2.1.0"
+    "parcel": "^2.1.1"
   }
 }
